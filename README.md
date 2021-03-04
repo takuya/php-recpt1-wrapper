@@ -66,7 +66,7 @@ Recpt1のコマンドオプションをいつも忘れるので、PHPからメ�
       ->strip()
       ->channel(22)
       ->duration(3600)
-      ->destfile('out.ts')
+      ->destfile('out_1.ts')
       ->start();
     //
     $recpt1_2 = new Recpt1( 'ssh 192.168.10.10 recpt1' );
@@ -75,7 +75,7 @@ Recpt1のコマンドオプションをいつも忘れるので、PHPからメ�
       ->strip()
       ->channel(22)
       ->duration(3600)
-      ->destfile('out.ts')
+      ->destfile('out_2.ts')
       ->start();
       
       
