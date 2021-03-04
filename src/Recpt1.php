@@ -1,10 +1,10 @@
 <?php
 
 
-namespace SystemUtil;
+namespace RecorderUtil;
 
 
-use SystemUtil\Recpt1\Recpt1Command;
+use RecorderUtil\Recpt1\Recpt1Command;
 
 class Recpt1 {
   

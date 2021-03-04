@@ -5,7 +5,7 @@ namespace Tests\Units\Recpt1Command;
 
 
 use Tests\TestCase;
-use SystemUtil\Recpt1\Recpt1Command;
+use RecorderUtil\Recpt1\Recpt1Command;
 
 class Recpt1CommandTest extends  TestCase {
   

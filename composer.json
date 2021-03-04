@@ -4,7 +4,7 @@
   "homepage": "https://github.com/takuya/php-recpt1-wrappere",
   "type": "library",
   "license": "GPL-3.0-or-later",
-  "version": "1.0",
+  "version": "1.1",
   "keywords": [
     "recpt1",
     "command",
@@ -24,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "SystemUtil\\": "src"
+      "RecorderUtil\\": "src"
     }
   },
   "autoload-dev": {

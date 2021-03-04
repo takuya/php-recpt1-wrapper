@@ -5,7 +5,7 @@ namespace Tests\Units\Recpt1;
 
 
 use Tests\TestCase;
-use SystemUtil\Recpt1;
+use RecorderUtil\Recpt1;
 
 class Recpt1Test extends TestCase {
   
